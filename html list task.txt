@@ -1,0 +1,143 @@
+<html>
+<head>List task </head>
+<body>
+1)<br>
+<h5>A.ANIMAL</h5>
+<ul>
+<li>Dog</li>
+<li>Cat</li>
+<li>Lion</li>
+<li>Tiger<li>
+<li>Elephant<li>
+</ul>
+<h5>B.BIRDS</h5>
+<ul Type="circle">
+<li>Peacock</li>
+<li>Dove</li>
+<li>Parrot</li>
+<li>Hen<li>
+<li>Duck<li>
+</ul>
+<h5>C.LANGUAGE</h5>
+<ul Type="square">
+<li>Java</li>
+<li>Python</li>
+<li>C++</li>
+<li>Dot Net<li>
+</ul>
+<h5>D.DEPARTMENT</h5>
+<ul Type="None">
+<li>CSE</li>
+<li>MECH</li>
+<li>ECE</li>
+<li>EEE<li>
+</ul>
+
+2) <br>
+<h5>A.COURSE</h5>
+<ol>
+<li>Biology</li>
+<li>Computer</li>
+<li>Economics</li>
+<li>Accounts</li>
+</ol>
+<h5>B.OOPS</h5>
+<ol Type="A">
+<li>Object</li>
+<li>Class</li>
+<li>Inheritance</li>
+<li>Encapsulation</li>
+<li>Interface</li>
+</ol>
+<h5>C.LANGUAGE</h5>
+<ol Type="a">
+<li>Tamil</li>
+<li>English</li>
+<li>Telugu</li>
+<li>Malayalam</li>
+</ol>
+<h5>D.SPORTS</h5>
+<ol Type="I">
+<li>Volleyball</li>
+<li>Cricket</li>
+<li>Throwball</li>
+<li>Basketball</li>
+</ol>
+
+3) <br>
+<dl>
+<dt><b>IAS</b></dt>
+<dd>Indian Administrative Service</dd>
+</dl>
+<dl>
+<dt><b>IPS</b></dt>
+<dd>Indian Police Service</dd>
+</dl>
+<dl>
+<dt><b>CPU</b></dt>
+<dd>Central Processing Unit</dd>
+</dl>
+<dl>
+<dt><b>LAN</b></dt>
+<dd>Local Area Network</dd>
+</dl>
+
+4) <br>
+
+<h5>A.COURSE</h5>
+<ol Reversed>
+<li>Biology</li>
+<li>Computer</li>
+<li>Economics</li>
+<li>Accounts</li>
+<li>Zoology</li>
+</ol>
+<h5>B.JAWA</h5>
+<ol Type="A" reversed>
+<li>Encapsulation</li>
+<li>Statement</li>
+<li>String</li>
+<li>Oops</li>
+</ol>
+<h5>C.LANGUAGE</h5>
+<ol Type="a" reversed>
+<li>Tamil</li>
+<li>English</li>
+<li>Telugu</li>
+<li>Malayalam</li>
+</ol>
+<h5>D.HOBBIES</h5>
+<ol Type="I" reversed>
+<li>Music</li>
+<li>Painting</li>
+<li>Drawing</li>
+<li>Sports</li>
+</ol>
+<h5>E.SCHOOL</h5>
+<ol Type="i" reversed>
+<li>Watchman</li>
+<li>Students</li>
+<li>Staff</li>
+<li>Principal</li>
+</ol>
+
+5)<br>
+<h5><u>A.Phone Model</u></h5>
+<ol Start="10">
+<li>Oopo</li>
+<li>Redmi</li>
+<li>Samsung</li>
+<li>Apple</li>
+<li>Oneolus</li>
+</ol>
+<h5><u>B.Project Team</u></h5>
+<ol Type="A" Start="27">
+<li>Manager</li>
+<li>Project lead</li>
+<li>Developer</li>
+<li>Tester</li>
+<li>Production Team</li>
+</ol>
+
+</body>
+</html>

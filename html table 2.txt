@@ -1,0 +1,22 @@
+<html>
+<head><b> TABLE TASK </b></head> <br></br>
+<body>
+<tr>
+<th>Days Period</th>
+<th>I 9.00-10.00</th>
+<th>II 10.00-11.00</th>
+<th>III 11.00-12.00</th>
+<th>12.00-12.40</th>
+<th>IV 12.40-01.40</th>
+<th>V 01.40-2.40</th>
+<th>VI 2.40-3.40</th>
+<th>VII 3.40-4.40</th>
+</tr>
+
+
+
+
+
+
+</body>
+</html>
